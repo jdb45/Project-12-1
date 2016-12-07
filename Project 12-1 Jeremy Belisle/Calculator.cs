@@ -29,7 +29,6 @@ namespace Project_12_1_Jeremy_Belisle
                     break;
                 default:
                     break;
-
             }
 
             return txtResult;
